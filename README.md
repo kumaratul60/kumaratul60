@@ -20,7 +20,7 @@
 
 - **Languages**:  `Java`, `Kotlin`, `Python`
 
-- **Framework**: `JSP & Servlet`, `Spring`
+- **Framework**: `ReactJs`, `JSP & Servlet`, `Spring`
 
 - **Database Technologies**: `MySQL`, `JDBC`, `Firebase`
 
