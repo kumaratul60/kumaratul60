@@ -51,7 +51,7 @@
 ![Atul's github stats](https://github-readme-stats.vercel.app/api?username=kumaratul60&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 #### Hire me
-- :paperclip: [My Resume/CV](https://github.com/kumaratul60/My-resume/blob/main/Atul_Resume_IT_SoftwareDeveloper_FreshGraduate_2020.pdf)
+- :paperclip: [My Resume/CV](https://github.com/kumaratul60/My-resume/blob/main/Atul-2020-IT-Resume.pdf)
 - :email: atulreso1@gmail.com
 
 #### Profile Visits 
