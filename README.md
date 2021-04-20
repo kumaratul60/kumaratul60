@@ -6,7 +6,7 @@
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Atul-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-awasthi-225511143) [![Twitter Badge](https://img.shields.io/badge/-@Atul-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kumaratul60)](https://twitter.com/Atul82588446) [![Instagram Badge](https://img.shields.io/badge/-@atulkawasthi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/atulkawasthi) [![Mail Badge](https://img.shields.io/badge/-atulreso1@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:atulreso1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Atul-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-awasthi-225511143) [![Twitter Badge](https://img.shields.io/badge/-@Atul-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kumaratul60)](https://twitter.com/kumaratul60) [![Instagram Badge](https://img.shields.io/badge/-@atulkawasthi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/atulkawasthi) [![Mail Badge](https://img.shields.io/badge/-atulreso1@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:atulreso1@gmail.com)
 
 <p align="left">
 <a href="https://www.hackerrank.com/atulreso1?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/atulreso1?hr_r=1" height="30" width="40" /></a>
