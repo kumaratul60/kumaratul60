@@ -31,10 +31,10 @@
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
  
 - 🙌 I'm currently looking for: Full-Time SDE
-- 📚 I’m currently learning: Data Structures and algorithms using Java.
+- 📚 I’m currently learning: Fullstack development
 - 🌱 I'm eager to do something & exploring something new. 
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with competitive programming.
+- 🤔 I’m looking for help with building logic core programming.
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 💬 Ask me about Problem Solving Skills .
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/atul-kumar-awasthi-225511143/)
