@@ -14,17 +14,18 @@
 
 
 
-### :gear: My skills include:
+### :gearbox 🧰: 
 
-- **Languages**:  `Java`, `Kotlin`, `Python`
+- **Languages**:  `Java`,
 
-- **Framework**: `ReactJs`, `JSP & Servlet`, `Spring`
+- **Frontend**: `ReactJs`, `HTML`, `css`,  `javascript`
 
-- **Database Technologies**: `MySQL`, `JDBC`, `Firebase`
+- **Database Technologies**: `MySQL`,  `Firebase`
 
-- **CS Core**: `Data Structures`, `Algorithms`, `DBMS` , `Operating Syatem` , `OOP's`, `Computer Networks`
+- **CS Core**: `Data Structures`, `Algorithms`, `DBMS` , `Operating Syatem` , `OOP's`
 
-- **Version Control**: `Git`, `Github`, `Gitlab`
+- **Version Control**: `Git`, `Github`
+
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
  
