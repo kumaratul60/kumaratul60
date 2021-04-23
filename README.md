@@ -14,9 +14,9 @@
 
 
 
-### My gearbox 🧰: 
+### My gearbox 🧰 : 
 
-- **Languages**:  `Java`,
+- **Language**:  `Java`,
 
 - **Frontend**: `ReactJs`, `HTML`, `css`,  `javascript`
 
