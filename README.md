@@ -1,8 +1,7 @@
-## <h2>नमस्ते (Namaste)🙏🏻, I'm [Atul](https://www.linkedin.com/in/atul-kumar-awasthi-225511143/)* <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## <h2>Hi, I'm [Atul](https://www.linkedin.com/in/atul-kumar-awasthi-225511143/)* <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
-<h3 align="center">Interest in Computer Programming | Software Development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em> | Solve challenging problems | forever learner<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2></h3>
 
 :mailbox: Reach me out!
 
