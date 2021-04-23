@@ -1,11 +1,10 @@
-## <h2>Hi, I'm [Atul](https://www.linkedin.com/in/atul-kumar-awasthi-225511143/)* <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
- [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Atul](https://www.linkedin.com/in/atul-kumar-awasthi-225511143)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 
-:mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Atul-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-awasthi-225511143) [![Twitter Badge](https://img.shields.io/badge/-@Atul-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kumaratul60)](https://twitter.com/kumaratul60) [![Instagram Badge](https://img.shields.io/badge/-@atulkawasthi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/atulkawasthi) [![Mail Badge](https://img.shields.io/badge/-atulreso1@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:atulreso1@gmail.com)
+
 
 <p align="left">
 <a href="https://www.hackerrank.com/atulreso1?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/atulreso1?hr_r=1" height="30" width="40" /></a>
@@ -29,33 +28,33 @@
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
  
-- 🙌 I'm currently looking for: Full-Time SDE
-- 📚 I’m currently learning: Fullstack development
-- 🌱 I'm eager to do something & exploring something new. 
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with building logic core programming.
+- 🙌 I'm Passionate for learning & exploring new Tech.
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 💬 Ask me about Problem Solving Skills .
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/atul-kumar-awasthi-225511143/)
-- 😄 Pronouns: He / Him || CrossFit learner
 - ⚡ Fun fact: Always learning and trying new things || I love CrossFit games.
 - 💡 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million+%20lines%20of%20code-blue)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
+ <details>
+<summary>📊 Github Stats</summary>
 
-#### 📊 Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
 
-![Atul's github stats](https://github-readme-stats.vercel.app/api?username=kumaratul60&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+</details>
 #### Hire me
 - :paperclip: [My Resume/CV](https://github.com/kumaratul60/My-resume/blob/main/Atul_2020_IT_Resume.pdf)
 - :email: atulreso1@gmail.com
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kumaratul60.kumaratul60)
+ ![Visitor Count](https://profile-counter.glitch.me/{kumaratul60}/count.svg)
+ 
+ 
+ [twitter]:https://twitter.com/kumaratul60
+ [linkedin]:https://www.linkedin.com/in/atul-kumar-awasthi-225511143
+[gmail]: https://gmail.com
+
 
 
 
