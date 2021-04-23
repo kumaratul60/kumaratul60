@@ -28,7 +28,7 @@
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
  
-- 🙌 I'm Passionate for learning & exploring new Tech.
+- 🚀 I'm Passionate for learning & exploring new Tech.
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - ⚡ Fun fact: Always learning and trying new things || I love CrossFit games.
 - 💡 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million+%20lines%20of%20code-blue)
@@ -37,7 +37,7 @@
 
 
 
-<summary>📊 Github Stats</summary>
+📊 Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
 
