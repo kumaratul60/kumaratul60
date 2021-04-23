@@ -44,7 +44,7 @@
 
 
 #### Hire me
-- :paperclip: [My Resume/CV](https://github.com/kumaratul60/My-resume/blob/main/Atul_2020_IT_Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/kumaratul60/My-resume)
 - :email: atulreso1@gmail.com
 
 #### Profile Visits 
