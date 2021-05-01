@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.hackerrank.com/atulreso1?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/atulreso1?hr_r=1" height="30" width="40" /></a>
 <a href="https://leetcode.com/atulreso1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/atulreso1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/a_tul79/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/atul0063/practice" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/atul0063/practice" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/atul0063/practice" height="30" width="40" /></a>
 </p> 
 
 
