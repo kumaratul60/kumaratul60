@@ -1,13 +1,17 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Atul](https://www.linkedin.com/in/atul-kumar-awasthi-225511143)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img height="30" src="https://img.shields.io/badge/hackerrank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
+
+
 
 
 
 
 
 <p align="left">
-<a href="https://www.hackerrank.com/atulreso1?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/atulreso1?hr_r=1" height="30" width="40" /></a>
+
 <a href="https://leetcode.com/atulreso1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/atulreso1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/atul0063/practice" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/atul0063/practice" height="30" width="40" /></a>
 </p> 
@@ -58,6 +62,8 @@
  
  [twitter]:https://twitter.com/kumaratul60
  [linkedin]:https://www.linkedin.com/in/atul-kumar-awasthi-225511143
+ [medium]:https://medium.com/@kumaratul60
+ [hackerrank]:https://www.hackerrank.com/atulreso1?hr_r=1
 [gmail]: https://gmail.com
 
 
