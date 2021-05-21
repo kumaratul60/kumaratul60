@@ -63,7 +63,7 @@
  [twitter]:https://twitter.com/kumaratul60
  [linkedin]:https://www.linkedin.com/in/atul-kumar-awasthi-225511143
  [medium]:https://medium.com/@kumaratul60
- [hackerrank]:https://www.hackerrank.com/atulreso1?hr_r=1
+ [hackerrank]:https://www.hackerrank.com/atulreso1
 [gmail]: https://gmail.com
 
 
