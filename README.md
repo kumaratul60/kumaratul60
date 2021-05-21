@@ -52,7 +52,7 @@
 
 
 #### Hire me
-- :paperclip: [My Resume/CV](https://github.com/kumaratul60/My-resume/blob/main/Atul's%20Resume.pdf)
+- :paperclip: [My Portfolio](https://epic-montalcini-9a291e.netlify.app/)
 - :email: atulreso1@gmail.com
 
 #### Profile Visits 
