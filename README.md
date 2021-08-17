@@ -52,7 +52,7 @@
 
 
 #### Hire me
-- :paperclip: [My Portfolio](https://my-profile-atul721.netlify.app)
+- :paperclip: [My Portfolio](https://atulthecodefighter.netlify.app)
 - :email: atulreso1@gmail.com
 
 #### Profile Visits 
