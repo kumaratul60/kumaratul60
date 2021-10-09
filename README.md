@@ -43,7 +43,7 @@
 
 📊 Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=gotham" alt="Atul | Stats" />
 
 
 
@@ -52,7 +52,7 @@
 
 
 #### Hire me
-- :paperclip: [My Portfolio](https://atulthecodefighter.netlify.app)
+- :paperclip: [My Portfolio](https://atulthecode1.netlify.app/)
 - :email: atulreso1@gmail.com
 
 #### Profile Visits 
