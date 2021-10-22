@@ -18,6 +18,7 @@
 </p> 
 
 
+
 ### My gearbox 🧰 : 
 
 - **Language**:  `Java`,
@@ -30,6 +31,7 @@
 
 - **Version Control**: `Git`, `Github`
 
+## :heavy_check_mark: <a href="https://app.daily.dev/atuldev12"><img src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=j5b" width="400" alt="Atul Awasthi's Dev Card"/></a>
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
  
