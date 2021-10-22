@@ -4,12 +4,8 @@
 [<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img height="30" src="https://img.shields.io/badge/hackerrank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <a href="https://app.daily.dev/atuldev12"><img align='right'  src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=j5b" width="400" alt="Atul Awasthi's Dev Card"/></a>
-
-
-
-
 
 
 <p align="left">
@@ -18,7 +14,6 @@
 <a href="https://auth.geeksforgeeks.org/user/atul0063/practice" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/atul0063/practice" height="30" width="40" /></a>
 
 </p> 
-
 
 
 ### My gearbox 🧰 : 
@@ -33,7 +28,6 @@
 
 - **Version Control**: `Git`, `Github`
 
-### :heavy_check_mark: <a href="https://app.daily.dev/atuldev12"><img src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=j5b" width="400" alt="Atul Awasthi's Dev Card"/></a>
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
  
@@ -51,10 +45,6 @@
 
 
 
-
-
-
-
 #### Hire me
 - :paperclip: [My Portfolio](https://atulthecode1.netlify.app/)
 - :email: atulreso1@gmail.com
@@ -69,8 +59,6 @@
  [medium]:https://medium.com/@kumaratul60
  [hackerrank]:https://www.hackerrank.com/atulreso1
 [gmail]: https://gmail.com
-
-
 
 
 ### :handshake: Always happy to help!
