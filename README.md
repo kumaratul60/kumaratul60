@@ -4,6 +4,7 @@
 [<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img height="30" src="https://img.shields.io/badge/hackerrank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 
