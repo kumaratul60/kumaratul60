@@ -17,6 +17,9 @@
 </p> 
 
 
+<p align = "right>
+<a href="https://app.daily.dev/atuldev12"><img src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=j5b" width="400" alt="Atul Awasthi's Dev Card"/></a>
+</p>
 
 ### My gearbox 🧰 : 
 
