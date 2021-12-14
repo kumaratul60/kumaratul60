@@ -4,12 +4,11 @@
 [<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img height="30" src="https://img.shields.io/badge/hackerrank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <a href="https://app.daily.dev/atuldev12"><img src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=yze" width="400" alt="Atul Awasthi's Dev Card"/></a>
-
 
 <p align="left">
 
- 
 <a href="https://leetcode.com/atulreso1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/atulreso1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/atul0063/practice" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/atul0063/practice" height="30" width="40" /></a>
 
