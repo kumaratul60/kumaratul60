@@ -4,9 +4,7 @@
 [<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img height="30" src="https://img.shields.io/badge/hackerrank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
 
-
-<a href="https://app.daily.dev/atuldev12"><img align='right'  src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=j5b" width="400" alt="Atul Awasthi's Dev Card"/></a>
-
+<a href="https://app.daily.dev/atuldev12"><img src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=yze" width="400" alt="Atul Awasthi's Dev Card"/></a>
 
 <p align="left">
 
@@ -38,12 +36,9 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
 
-
 📊 Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=gotham" alt="Atul | Stats" />
-
-
 
 #### Hire me
 - :paperclip: [My Portfolio](https://atulthecode1.netlify.app/)
