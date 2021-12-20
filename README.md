@@ -21,7 +21,7 @@
 
 - **Language**:  `Java`,
 
-- **Frontend**: `ReactJs`, `HTML`, `css`,  `javascript`
+- **Frontend**: `ReactJs`, `Javascript`,  `HTML`, `css`,  `Tailwind CSS`, `Next JS`,  `Material-UI`
 
 - **Database Technologies**: `MySQL`,  `Firebase`
 
