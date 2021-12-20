@@ -4,11 +4,12 @@
 [<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img height="30" src="https://img.shields.io/badge/hackerrank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
 
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="330">
 
 <p align="right">
  
-<a href="https://app.daily.dev/atuldev12"><img src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=zhd" width="400" alt="Atul Awasthi's Dev Card"/></a>
+<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=zhd" width="400" alt="Atul Awasthi's Dev Card"/></a>
 
 <p align="left">
 
