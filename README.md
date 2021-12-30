@@ -42,7 +42,7 @@
 📊 Github Stats
 
 
-<img align = "center" src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=gotham" alt="Atul | Stats" />
+<p align = "center"><img  src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=gotham" alt="Atul | Stats" />
  
 
  
