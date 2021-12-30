@@ -35,15 +35,17 @@
 - ⚡ Fun fact: Always learning and trying new things || I love CrossFit games.
 - 💡 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million+%20lines%20of%20code-blue)
 
-📊 Github Stats
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
+
+📊 Github Stats
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=gotham" alt="Atul | Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=gotham" alt="Atul | Stats" />
  
 
  
