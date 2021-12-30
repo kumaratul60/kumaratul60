@@ -41,11 +41,8 @@
 
 📊 Github Stats
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=gotham" alt="Atul | Stats" />
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=gotham" alt="Atul | Stats" />
  
 
  
