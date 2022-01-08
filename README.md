@@ -61,4 +61,4 @@
  [gmail]: https://gmail.com
 
 
-### :handshake: [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Always+happy+to+Help's+GitHub+Profile!)](https://git.io/typing-svg)
+###  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=:handshake:+Always+happy+to+Help)](https://git.io/typing-svg)
