@@ -39,7 +39,7 @@
 </p>
 <br>
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=gotham" alt="languages" >
+<img width="403" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=gotham" alt="languages" >
 <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&layout=compact&theme=gotham" alt="ctcb" /></p>
 </p>
  
