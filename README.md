@@ -43,7 +43,7 @@
  <img width="405" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=gotham" alt="languages" />
 </p>
 
-<p align="center">
+
 
 #### Hire me
 - :paperclip: [My Portfolio](https://atulthecode1.netlify.app/)
@@ -53,14 +53,12 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/{kumaratul60}/count.svg)
  
- </p>
- 
  
  [twitter]:https://twitter.com/kumaratul60
- [linkedin]:https://www.linkedin.com/in/atul-kumar-awasthi-225511143
+ [linkedin]:https://www.linkedin.com/in/atul-kumar-awasthi
  [medium]:https://medium.com/@kumaratul60
  [hackerrank]:https://www.hackerrank.com/atulreso1
-[gmail]: https://gmail.com
+ [gmail]: https://gmail.com
 
 
-### :handshake: Always happy to help!
+### :handshake: [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Always+happy+to+Help's+GitHub+Profile!)](https://git.io/typing-svg)
