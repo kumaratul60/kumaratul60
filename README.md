@@ -43,6 +43,7 @@
  <img width="405" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=gotham" alt="languages" />
 </p>
 
+<p align="center">
 
 #### Hire me
 - :paperclip: [My Portfolio](https://atulthecode1.netlify.app/)
@@ -51,6 +52,8 @@
 #### Profile Visits 
 
  ![Visitor Count](https://profile-counter.glitch.me/{kumaratul60}/count.svg)
+ 
+ </p>
  
  
  [twitter]:https://twitter.com/kumaratul60
