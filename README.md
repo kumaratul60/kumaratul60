@@ -35,14 +35,14 @@
 📊 Github Stats
  
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&line_height=21&theme=gotham" alt="github-stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=gotham" alt="languages" height="150" width = "480">
+<img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&line_height=21&theme=gotham" alt="github-stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=gotham" alt="languages" height="165">
 </p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" width = "480">
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&layout=compact&theme=gotham" alt="ctcb" /></p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" >
+<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&layout=compact&theme=gotham"  width="480" alt="ctcb" /></p>
 <p align="left">
  
  
- <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
+ <img width="600" height="70" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
 </p>
 <hr>
 
