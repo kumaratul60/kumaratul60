@@ -20,7 +20,7 @@
  
 - 💻 I'm web developer, designer & curious learner,
 - 📍 I'm from India
-- 🕸️ I am passionate about building websites with React.js & exploring new Tech
+- 🕸️ I am passionate about building websites with React.js & Next.js
 - 🤝 I like to meet new people.
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - ⚡ Fun fact: Always learning and trying new things || I love CrossFit games.
@@ -42,11 +42,6 @@
 <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&layout=compact&theme=gotham" alt="ctcb" />
  <img width="405" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=gotham" alt="languages" />
 </p>
-<p align="center">
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="170" />
- <img width="600" height="70" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300"/>
- </p>
-
 
 
 #### Hire me
