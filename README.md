@@ -37,17 +37,16 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&line_height=21&theme=gotham" alt="github-stats" width="480"/>&nbsp;
 </p>
-<br>
+
 <p align="center">
-
 <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&layout=compact&theme=gotham" alt="ctcb" />
- <img width="405" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=radical" alt="languages" />
+ <img width="405" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=gotham" alt="languages" />
 </p>
- </br>
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200" >
- <img width="600" height="70" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
+<p align="center">
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="170" />
+ <img width="600" height="70" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300"/>
+ </p>
 
-<hr>
 
 
 #### Hire me
