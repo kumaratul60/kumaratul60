@@ -39,19 +39,15 @@
 </p>
 <br>
 <p align="center">
-<img width="405" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=gotham" alt="languages" >
-<img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&layout=compact&theme=gotham" alt="ctcb" /></p>
+
+<img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&layout=compact&theme=gotham" alt="ctcb" />
+ <img width="405" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=radical" alt="languages" />
 </p>
- 
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" >
+ </br>
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200" >
  <img width="600" height="70" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
-</p>
+
 <hr>
-
- 
-
-
- 
 
 
 #### Hire me
