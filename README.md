@@ -15,22 +15,13 @@
 </p> 
 
 
-<h2>🛠Tech Stack</h2>
-
-- **Language**:  `Java`,
-
-- **Frontend**: `ReactJs`, `Javascript`,  `HTML`, `css`,  `Tailwind CSS`, `Next JS`,  `Material-UI`
-
-- **Database Technologies**: `MySQL`,  `Firebase`
-
-- **CS Core**: `Data Structures`, `Algorithms`, `DBMS` , `Operating Syatem` , `OOP's`
-
-- **Version Control**: `Git`, `Github`
-
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
  
-- 🚀 I'm Passionate for learning & exploring new Tech.
+- 💻 I'm web developer, designer & curious learner,
+- 📍 I'm from India
+- 🕸️ I am passionate about building websites with React.js & exploring new Tech
+- 🤝 I like to meet new people.
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - ⚡ Fun fact: Always learning and trying new things || I love CrossFit games.
 - 💡 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million+%20lines%20of%20code-blue)
@@ -48,7 +39,14 @@
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="165">
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&layout=compact&theme=gotham" alt="ctcb" /></p>
-<p align="center">
+<p align="left">
+ 
+ ## Discord Status 💻
+
+<a href="https://discord.com/users/Atul0201#3525">
+     <img  align="right" src="https://lanyard.cnrad.dev/api/765196568051580949" width="400" height="200" />
+</a>
+ 
  <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
 </p>
 <hr>
