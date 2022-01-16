@@ -44,7 +44,7 @@
  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=gotham" alt="languages" />
 </p>
 
-[![Atul's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumaratul60&theme=react-dark alt="graph")](https://github.com/kumaratul60/github-readme-activity-graph)
+[![Atul's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumaratul60&theme=react-dark)](https://github.com/kumaratul60/github-readme-activity-graph)
 
 🌱 Profile Visits 
 
