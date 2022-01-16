@@ -34,7 +34,7 @@
 
 📊 Github Stats
  
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&line_height=21&theme=gotham" alt="github-stats" width="480"/>&nbsp;
 </p>
 
