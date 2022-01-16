@@ -34,11 +34,11 @@
 
 📊 Github Stats
  
-<p align="cenetr">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&line_height=21&theme=gotham" alt="github-stats" width="480"/>&nbsp;
  </p>
  
-<p align="cenetr">
+<p align="center">
 #### Profile Visits 
 
  ![Visitors](https://profile-counter.glitch.me/{kumaratul60}/count.svg?align=right)
@@ -54,7 +54,7 @@
 
 
 
-#### Hire me
+ 📶 Hire me
 - :paperclip: [My Portfolio](https://atulthecode1.netlify.app/)
 - :email: atulreso1@gmail.com
 
