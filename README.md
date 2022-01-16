@@ -5,7 +5,7 @@
 [<img height="30" src="https://img.shields.io/badge/hackerrank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
 
  
-<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=zhd" width="350" alt="Atul Awasthi's Dev Card"/></a>
+<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=zhd" width="320" alt="Atul Awasthi's Dev Card"/></a>
 
 <p align="left">
 
@@ -38,6 +38,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&line_height=21&theme=gotham" alt="github-stats" width="480"/>&nbsp;
 </p>
 
+#### Profile Visits 
+
+ ![Visitors](https://profile-counter.glitch.me/{kumaratul60}/count.svg?align=right)
+
 <p align="center">
 <img width="48%"src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&layout=compact&theme=gotham" alt="ctcb" />
  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=gotham" alt="languages" />
@@ -51,9 +55,7 @@
 - :paperclip: [My Portfolio](https://atulthecode1.netlify.app/)
 - :email: atulreso1@gmail.com
 
-#### Profile Visits 
 
- ![Visitor Count](https://profile-counter.glitch.me/{kumaratul60}/count.svg)
  
  
  [twitter]:https://twitter.com/kumaratul60
