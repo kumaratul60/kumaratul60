@@ -5,7 +5,7 @@
 [<img height="30" src="https://img.shields.io/badge/hackerrank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
 
  
-<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=zhd" width="320" alt="Atul Awasthi's Dev Card"/></a>
+<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=zhd" width="300" alt="Atul Awasthi's Dev Card"/></a>
 
 <p align="left">
 
@@ -38,7 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&line_height=21&theme=gotham" alt="github-stats" width="480"/>&nbsp;
  </p>
 
-#### Profile Visits 
+🌱 **Profile Visits 
 
  ![Visitors](https://profile-counter.glitch.me/{kumaratul60}/count.svg?align=right)
 
@@ -50,7 +50,9 @@
 
 [![Atul's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumaratul60&theme=react-dark)](https://github.com/kumaratul60/github-readme-activity-graph)
 
+🌱 **Profile Visits 
 
+ ![Visitors](https://profile-counter.glitch.me/{kumaratul60}/count.svg?align=right)
 
  📶 Hire me
 - :paperclip: [My Portfolio](https://atulthecode1.netlify.app/)
