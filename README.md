@@ -18,10 +18,10 @@
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
  
-- 💻 I'm web developer, designer & curious learner,
-- 📍 I'm from India
-- 🕸️ I am passionate about building websites with React.js & Next.js
-- 🤝 I like to meet new people.
+- 💻 I'm web developer, designer & curious learner.
+- 📍  I'm from India
+- 🕸️ I am passionate about building websites with React.js & Next.js.
+- 🤝  I like to meet new people.
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - ⚡ Fun fact: Always learning and trying new things || I love CrossFit games.
 - 💡 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million+%20lines%20of%20code-blue)
