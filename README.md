@@ -34,13 +34,16 @@
 
 📊 Github Stats
  
-<p align="center">
+<p align="cenetr">
 <img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&line_height=21&theme=gotham" alt="github-stats" width="480"/>&nbsp;
-</p>
-
+ </p>
+ 
+<p align="cenetr">
 #### Profile Visits 
 
  ![Visitors](https://profile-counter.glitch.me/{kumaratul60}/count.svg?align=right)
+</p>
+
 
 <p align="center">
 <img width="48%"src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&layout=compact&theme=gotham" alt="ctcb" />
