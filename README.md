@@ -32,17 +32,16 @@
 
 
 
-📊 Github Stats
+📊 Github Stats📈
  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&line_height=21&theme=gotham" alt="github-stats" width="480"/>&nbsp;
- </p>
 
 
 <p align="center">
-<img width="48%"src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&layout=compact&theme=gotham" alt="ctcb" />
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaratul60&layout=compact&theme=gotham" alt="languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaratul60&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="kumaratul60" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="kumaratul60" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&theme=highcontrast&hide_border=true" alt="kumaratul60" />
 </p>
+
 
 [![Atul's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumaratul60&theme=react-dark)](https://github.com/kumaratul60/github-readme-activity-graph)
 
