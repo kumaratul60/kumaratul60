@@ -1,25 +1,14 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Atul](https://www.linkedin.com/in/atul-kumar-awasthi-225511143)
+
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-1.7k-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=plastic&logo=medium&logoColor=white" />][medium]
-[<img height="30" src="https://img.shields.io/badge/hackerrank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
-[<img height="30" src="https://img.shields.io/badge/leetcode-yellow.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />][leetcode]
-[<img height="30" src="https://img.shields.io/badge/geekforgeeks-green.svg?&style=for-the-badge&logo=geekforgeeks&logoColor=white" />][geekforgeeks]
+[<img height="30" src="https://img.shields.io/badge/hackerrank-brightgreen.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
+[<img height="30" src="https://img.shields.io/badge/leetcode-yellow.svg?&style=plastic&logo=leetcode&logoColor=white" />][leetcode]
+[<img height="30" src="https://img.shields.io/badge/geekforgeek-brightgreen.svg?&style=plastic&logo=geekforgeek&logoColor=white" />][geekforgeeks]
 
 
-
-
- 
 <a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=9er" width="310" alt="Atul Awasthi's Dev Card"/></a>
-
-<p align="left">
- 
-<a href="https://leetcode.com/atulreso1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/atulreso1" height="30" width="40" /></a>
-
-<a href="https://auth.geeksforgeeks.org/user/atul0063/practice" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/atul0063/practice" height="30" width="40" /></a>
-
-</p> 
-
 
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -33,15 +22,12 @@
 - 💡 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million+%20lines%20of%20code-blue)
 
 
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
-
 
 
 📊 Github Stats📈
  
-
-
+ 
 <p align="center">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="kumaratul60" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaratul60&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="kumaratul60" /> 
@@ -56,11 +42,9 @@
  ![Visitors](https://profile-counter.glitch.me/{kumaratul60}/count.svg?align=right)
 
  📶 Hire me
-- :paperclip: [My Portfolio](https://atulthecode1.netlify.app/)
+- :paperclip: [My Portfolio](https://atulthecode1.netlify.app)
 - :email: atulreso1@gmail.com
 
-
- 
  
  [twitter]:https://twitter.com/kumaratul60
  [linkedin]:https://www.linkedin.com/in/atul-kumar-awasthi
