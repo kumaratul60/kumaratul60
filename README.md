@@ -5,7 +5,7 @@
 [<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=plastic&logo=medium&logoColor=white" />][medium]
 [<img height="30" src="https://img.shields.io/badge/hackerrank-brightgreen.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
 [<img height="30" src="https://img.shields.io/badge/leetcode-yellow.svg?&style=plastic&logo=leetcode&logoColor=white" />][leetcode]
-[<img height="30" src="https://img.shields.io/badge/geekforgeek-brightgreen.svg?&style=plastic&logo=geekforgeek&logoColor=white" />][geekforgeeks]
+[<img height="30" src="https://img.shields.io/badge/geeksforgeeks-brightgreen.svg?&style=plastic&logo=geeksforgeeks&logoColor=white" />][geeksforgeeks]
 
 
 <a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=9er" width="310" alt="Atul Awasthi's Dev Card"/></a>
