@@ -52,7 +52,7 @@
  [hackerrank]:https://www.hackerrank.com/atulreso1
  [gmail]: https://gmail.com
  [leetcode]: https://leetcode.com/atulreso1
- [geekforgeeks]: https://auth.geeksforgeeks.org/user/atul0063
+ [geeksforgeeks]: https://auth.geeksforgeeks.org/user/atul0063
 
 
 ###  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=+Always+happy+to+Help+;)](https://git.io/typing-svg)
