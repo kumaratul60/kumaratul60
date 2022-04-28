@@ -46,7 +46,7 @@
 - :email: atulreso1@gmail.com
 
  
- [twitter]:https://twitter.com/kumaratul60
+ [twitter]:https://twitter.com/atulkawasthi
  [linkedin]:https://www.linkedin.com/in/atul-kumar-awasthi
  [medium]:https://medium.com/@kumaratul60
  [hackerrank]:https://www.hackerrank.com/atulreso1
