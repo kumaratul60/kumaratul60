@@ -47,7 +47,7 @@
  
  [twitter]:https://twitter.com/atulkawasthi
  [linkedin]:https://www.linkedin.com/in/atul-kumar-awasthi
- [medium]:https://medium.com/@kumaratul60
+ [medium]:https://medium.com/@atulkawasthi
  [hackerrank]:https://www.hackerrank.com/atulreso1
  [gmail]: https://gmail.com
  [leetcode]: https://leetcode.com/atulreso1
