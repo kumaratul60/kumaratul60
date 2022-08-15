@@ -36,7 +36,7 @@
 
 [![Atul's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumaratul60&theme=react-dark)](https://github.com/kumaratul60/github-readme-activity-graph)
 
-🌱 Profile Visits 
+🌱😍 Profile Visits 
 
  ![Visitors](https://profile-counter.glitch.me/{kumaratul60}/count.svg?align=right)
 
