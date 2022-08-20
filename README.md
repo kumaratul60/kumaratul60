@@ -41,7 +41,7 @@
  ![Visitors](https://profile-counter.glitch.me/{kumaratul60}/count.svg?align=right)
 
  📶 Hire me
-- :paperclip: [My Portfolio](https://atulthecode1.netlify.app)
+- :paperclip: [My Portfolio](https://atultheportfolio.netlify.app)
 - :email: atulreso1@gmail.com
 
  
