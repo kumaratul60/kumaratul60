@@ -34,7 +34,7 @@
 </p>
 
 
-[![Atul's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumaratul60&theme=dracula&hide_border=true)](https://github.com/kumaratul60/github-readme-activity-graph)
+[![Atul's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumaratul60&theme=dracula)](https://github.com/kumaratul60/github-readme-activity-graph)
 
 🌱😍 Profile Visits 
 
