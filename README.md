@@ -12,7 +12,7 @@
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
  
-- 💻 I'm web developer, designer & curious learner.
+- 💻 I'm curious self taught developer.
 - 📍  I'm from India
 - 🕸️ I am passionate about building websites with React.js & Next.js.
 - 🤝  I like to meet new people.
