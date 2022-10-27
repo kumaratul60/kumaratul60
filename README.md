@@ -6,8 +6,7 @@
 [<img height="30" src="https://img.shields.io/badge/leetcode-yellow.svg?&style=plastic&logo=leetcode&logoColor=white" />][leetcode]
 [<img height="30" src="https://img.shields.io/badge/geeksforgeeks-brightgreen.svg?&style=plastic&logo=geeksforgeeks&logoColor=white" />][geeksforgeeks]
 
-
-<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=9er" width="310" alt="Atul Awasthi's Dev Card"/></a>
+<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=ts4" width="400" alt="Atul Awasthi's Dev Card"/></a>
 
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -18,7 +17,7 @@
 - 🤝  I like to meet new people.
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - ⚡ Fun fact: Always learning and trying new things || I love CrossFit games.
-- 💡 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million+%20lines%20of%20code-blue)
+- 💡 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million+%20lines%20of%20code-blue)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
