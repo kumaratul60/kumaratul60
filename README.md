@@ -6,6 +6,8 @@
 [<img height="30" src="https://img.shields.io/badge/leetcode-yellow.svg?&style=plastic&logo=leetcode&logoColor=white" />][leetcode]
 [<img height="30" src="https://img.shields.io/badge/geeksforgeeks-brightgreen.svg?&style=plastic&logo=geeksforgeeks&logoColor=white" />][geeksforgeeks]
 
+"Code is easy and available everywhere, but knowing what code to write, where to write it, and how to write it well is what makes a developer known as the best."   
+
 <a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=ts4" width="350" alt="Atul Awasthi's Dev Card"/></a>
 
 
