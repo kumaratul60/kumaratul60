@@ -68,6 +68,16 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&theme=highcontrast&hide_border=true" alt="kumaratul60" />
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumaratul60&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumaratul60&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kumaratul60&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumaratul60&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kumaratul60&theme=default&utcOffset=8)
+
 [![Atul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumaratul60&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/kumaratul60/github-readme-activity-graph)
 
 🌱😍 Profile Visits 
@@ -79,7 +89,7 @@
 - :email: atulreso1@gmail.com
 
  
- [twitter]:https://twitter.com/atulkawasthi
+ [Twitter]:https://twitter.com/atulkawasthi
  [linkedin]:https://www.linkedin.com/in/atul-kumar-awasthi
  [medium]:https://medium.com/@atulkawasthi
  [hackerrank]:https://www.hackerrank.com/atulreso1
