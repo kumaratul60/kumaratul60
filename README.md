@@ -36,6 +36,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
 
+
 ### Libraries & Framework :
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -44,6 +45,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
+![Jest](https://img.shields.io/badge/-jest-BC3B14?style=flat-square&logo=Jest)
 
 
 ### DevOps & Cloud Tools:
