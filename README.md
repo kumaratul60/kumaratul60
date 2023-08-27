@@ -41,7 +41,12 @@
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express JS](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js)
+![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=Mongoose)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jwt)
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+
+
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
@@ -55,6 +60,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%23000000.svg?logo=netlify&logoColor=white"></a>
 
 ## 💰 Support
 <p>
