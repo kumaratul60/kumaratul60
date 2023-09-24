@@ -1,6 +1,6 @@
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src="https://img.shields.io/badge/linkedin-2.7K+-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/linkedin-2.8K+-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=plastic&logo=medium&logoColor=white" />][medium]
 [<img height="30" src="https://img.shields.io/badge/hackerrank-brightgreen.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
 [<img height="30" src="https://img.shields.io/badge/leetcode-yellow.svg?&style=plastic&logo=leetcode&logoColor=white" />][leetcode]
@@ -56,7 +56,7 @@
  [geeksforgeeks]: https://auth.geeksforgeeks.org/user/atul0063
  
  
-"Code is easy and available everywhere, but knowing what code to write, where to write it, and how to write it well is what makes a developer known as the best." 
+"Code is easy and available everywhere, but knowing what code to write, where to write it, and how to write it well is what makes a developer known as the  best." 
 
 ###  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=+Always+Happy+To+Help+;)](https://git.io/typing-svg)
 
