@@ -6,13 +6,7 @@
 [<img height="30" src="https://img.shields.io/badge/leetcode-yellow.svg?&style=square&logo=leetcode&logoColor=white" />][leetcode]
 [<img height="30" src="https://img.shields.io/badge/geeksforgeeks-brightgreen.svg?&style=plastic&logo=geeksforgeeks&logoColor=white" />][geeksforgeeks]
 
-  
-
-!--<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=ts4" width="300" alt="Atul Awasthi's Dev Card"/></a>
---!
-
 <a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/v2/SnC6qUoCM.png?type=default&r=gkg" width="300" alt="Atul Awasthi's Dev Card"/></a>
-
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
  
@@ -21,7 +15,7 @@
 - 🕸️ I am passionate about building websites with React.js & Next.js.
 - 🤝  I like to meet new people.
 - 🌋 I’m always looking for challenging work opportunities ahead.
-- ⚡ Fun fact: Always learning and trying new things || I love CrossFit games.
+- ⚡ Fun fact: I am always learning and trying new things || I love CrossFit games.
 - 💡 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million+%20lines%20of%20code-blue)
 - ✅ Ask me any thing [here](https://github.com/kumaratul60/kumaratul60/issues/new), or [email](atulreso1@gmail.com) me.
 
