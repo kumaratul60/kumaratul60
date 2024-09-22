@@ -1,5 +1,5 @@
 
-[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://twitter.com/atulkawasthi)
+[![X Badge](https://img.shields.io/badge/X.com-%231DA1F2.svg?&style=flat&logo=x&logoColor=white)](https://x.com/atulkawasthi)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-3.7K+-blue.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-awasthi)
 [![Medium Badge](https://img.shields.io/badge/medium-black.svg?&style=plastic&logo=medium&logoColor=white)](https://medium.com/@atulkawasthi)
 [![HackerRank Badge](https://img.shields.io/badge/hackerrank-brightgreen.svg?&style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/atulreso1)
