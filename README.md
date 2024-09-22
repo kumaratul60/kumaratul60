@@ -8,9 +8,10 @@
 
   
 
-<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=ts4" width="300" alt="Atul Awasthi's Dev Card"/></a>
+!--<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/99f2714dded04f30b399dbc50b7fe41c.png?r=ts4" width="300" alt="Atul Awasthi's Dev Card"/></a>
+--!
 
-<a href="https://app.daily.dev/atuldev12"><img src="https://api.daily.dev/devcards/v2/SnC6qUoCM.png?type=default&r=gkg" width="300" alt="Atul Awasthi's Dev Card"/></a>
+<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/v2/SnC6qUoCM.png?type=default&r=gkg" width="300" alt="Atul Awasthi's Dev Card"/></a>
 
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
