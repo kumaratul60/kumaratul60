@@ -23,6 +23,8 @@
 
 > "Code is easy and available everywhere, but knowing what code to write, where to write it, and how to write it well makes a developer known as the best."
 
+<br>
+
 ## ⚡ Technologies & Tools
 
 ### Languages
