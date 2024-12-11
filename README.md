@@ -9,7 +9,7 @@
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 - ## 🌟 About Me
-<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/v2/SnC6qUoCM.png?type=default&r=gkg" height = "250" width="230" alt="Atul Awasthi's Dev Card"/></a>
+<a href="https://app.daily.dev/atuldev12"><img align="right" src="https://api.daily.dev/devcards/v2/SnC6qUoCM.png?type=default&r=gkg" width="230" alt="Atul Awasthi's Dev Card"/></a>
 
 - 💻 Self-taught developer with a passion for technology.
 - 🌱 I'm passionate about contributing to open-source and learning from the community.
