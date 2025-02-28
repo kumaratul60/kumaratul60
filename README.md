@@ -1,6 +1,6 @@
 
 [![X Badge](https://img.shields.io/badge/X.com-%231DA1F2.svg?&style=flat&logo=x&logoColor=white)](https://x.com/atulkawasthi)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-3.9K+-blue.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-awasthi)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-4.0K+-blue.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-awasthi)
 [![Medium Badge](https://img.shields.io/badge/medium-black.svg?&style=plastic&logo=medium&logoColor=white)](https://medium.com/@atulkawasthi)
 [![HackerRank Badge](https://img.shields.io/badge/hackerrank-brightgreen.svg?&style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/atulreso1)
 [![LeetCode Badge](https://img.shields.io/badge/leetcode-yellow.svg?&style=square&logo=leetcode&logoColor=white)](https://leetcode.com/atulreso1)
@@ -21,7 +21,7 @@
 - ⚡ Fun Fact: I enjoy CrossFit and always learn new things!
 - - ✅ Ask me any thing [here](https://github.com/kumaratul60/kumaratul60/issues/new), or [email](atulreso1@gmail.com) me.
 
-> "Code is easy and available everywhere, but knowing what code to write, where to write it, and how to write it well makes a developer known as the best."
+> "Code is easy and available everywhere, but knowing what code to write, where to write it, and how to write it, well makes a developer known as the best developer."
 
 <br>
 
