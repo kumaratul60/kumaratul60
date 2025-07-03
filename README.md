@@ -1,6 +1,6 @@
 
 [![X Badge](https://img.shields.io/badge/X.com-%231DA1F2.svg?&style=flat&logo=x&logoColor=white)](https://x.com/atulkawasthi)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-4.0K+-blue.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-awasthi)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-4.1K+-blue.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-awasthi)
 [![Medium Badge](https://img.shields.io/badge/medium-black.svg?&style=plastic&logo=medium&logoColor=white)](https://medium.com/@atulkawasthi)
 [![HackerRank Badge](https://img.shields.io/badge/hackerrank-brightgreen.svg?&style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/atulreso1)
 [![LeetCode Badge](https://img.shields.io/badge/leetcode-yellow.svg?&style=square&logo=leetcode&logoColor=white)](https://leetcode.com/atulreso1)
