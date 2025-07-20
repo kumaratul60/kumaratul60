@@ -77,18 +77,19 @@
 <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kumaratul60&theme=highcontrast&utcOffset=8&hide_border=true" alt="kumaratul60" />
 </p>
 
+[![Atul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumaratul60&bg_color=1a2634&color=5AC8FA&point=5AC8FA&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-[![Atul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumaratul60&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/kumaratul60/github-readme-activity-graph)
 
 ## 📫 Get in Touch
 Feel free to reach out:
-- :paperclip: [My Portfolio](https://atultheportfolio.netlify.app)
-- :email: [Email Me](mailto:atulreso1@gmail.com)
+- > :email: [atulreso1@gmail.com](mailto:atulreso1@gmail.com)
+- > 🌐 [Portfolio](https://atultheportfolio.netlify.app)
 
 ### 🌱 Profile Visits
-![Visitors](https://profile-counter.glitch.me/{kumaratul60}/count.svg?align=right)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kumaratul60)
 
-### 🌐 Let's Connect!
+
+## 🧑‍💻 Let's Connect!
 I'm always happy to help or chat! 😊
  
 ###  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=+Always+happy+to+Help+;)](https://git.io/typing-svg)
