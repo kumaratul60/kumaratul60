@@ -29,6 +29,8 @@
 [![HackerRank Badge](https://img.shields.io/badge/hackerrank-brightgreen.svg?&style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/atulreso1)
 [![LeetCode Badge](https://img.shields.io/badge/leetcode-yellow.svg?&style=square&logo=leetcode&logoColor=white)](https://leetcode.com/atulreso1)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/geeksforgeeks-brightgreen.svg?&style=plastic&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/atul0063)
+![GitHub Followers](https://img.shields.io/github/followers/kumaratul60?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/kumaratul60?label=Stars&style=social)
 
 ---
 
@@ -46,7 +48,6 @@
 ### ⚙️ Version Control & Cloud
 ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,aws,vercel,netlify&theme=dark)
 
----
 <!--
 ## 📌 Featured Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kumaratul60&repo=javascript-interview&theme=dark)](https://github.com/kumaratul60/javascript-interview)
@@ -84,6 +85,11 @@
 - [React-Project Ideas To Learn Full-Stack Development, Host the Project](https://atulkawasthi.medium.com/react-project-ideas-to-learn-full-stack-development-bfe1cd472ff1?source=rss-24fb34991276------2)
 - [Top 5 Sorting Algorithms, built-in function in programming languages which sorting internally used?](https://atulkawasthi.medium.com/top-5-sorting-algorithms-built-in-function-in-programming-languages-which-sorting-internally-used-f1c1e3027ef4?source=rss-24fb34991276------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 
