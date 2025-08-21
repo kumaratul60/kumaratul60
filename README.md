@@ -96,9 +96,6 @@
 
 ---
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
----
-
 ## 💰 Support My Work
 <a href='https://www.buymeacoffee.com/atulkawasthi' target='_blank'>
   <img height='36' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='Support Atul on buymeacoffee' />
