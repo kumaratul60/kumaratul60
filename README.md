@@ -76,10 +76,11 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [How I prepared for JS Interviews](https://medium.com/@atulkawasthi/...)
-- [Scaling MERN apps efficiently](https://medium.com/@atulkawasthi/...)
-
+- [From Junior to Senior: How RADIO Changed the Way I Answer System Design Questions](https://atulkawasthi.medium.com/from-junior-to-senior-how-radio-changed-the-way-i-answer-system-design-questions-4ba342504688?source=rss-24fb34991276------2)
+- [React Performance Hacks: Make Your Front-End Fly](https://atulkawasthi.medium.com/react-performance-hacks-make-your-front-end-fly-dca5ab722158?source=rss-24fb34991276------2)
+- [“Unleashing Your Potential: A Comprehensive Guide to Crafting a Killer Software Developer Resume”](https://atulkawasthi.medium.com/unleashing-your-potential-a-comprehensive-guide-to-crafting-a-killer-software-developer-resume-48d0bc98dc36?source=rss-24fb34991276------2)
+- [React-Project Ideas To Learn Full-Stack Development, Host the Project](https://atulkawasthi.medium.com/react-project-ideas-to-learn-full-stack-development-bfe1cd472ff1?source=rss-24fb34991276------2)
+- [Top 5 Sorting Algorithms, built-in function in programming languages which sorting internally used?](https://atulkawasthi.medium.com/top-5-sorting-algorithms-built-in-function-in-programming-languages-which-sorting-internally-used-f1c1e3027ef4?source=rss-24fb34991276------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
