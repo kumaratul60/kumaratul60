@@ -2,7 +2,7 @@
 ![Atul Kumar Awasthi Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff8000,100:00c6ff&height=200&section=header&text=Atul%20Kumar%20Awasthi%20👨‍💻&fontSize=40&fontColor=fff&animation=fadeIn)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF8000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN;Open+Source+Contributor;Tech+Blogger+%7C;Lifelong+Learner+🌱)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF8000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN;Open+Source+Contributor;Tech+Blogger;Lifelong+Learner+🌱)](https://git.io/typing-svg)
 
 ---
 
@@ -47,20 +47,23 @@
 ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,aws,vercel,netlify&theme=dark)
 
 ---
-
+<!--
 ## 📌 Featured Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kumaratul60&repo=javascript-interview&theme=dark)](https://github.com/kumaratul60/javascript-interview)
-
+-->
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
- <img width="40%" src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" />
- <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaratul60&layout=compact&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&hide_border=true" />
- <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&theme=highcontrast&hide_border=true" />
- <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kumaratul60&theme=highcontrast&utcOffset=8&hide_border=true" />
+  <img width="36%" src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" />
+  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&theme=highcontrast&hide_border=true" />
 </p>
+<p align="center">
+  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaratul60&layout=compact&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&hide_border=true" />
+  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kumaratul60&theme=highcontrast&utcOffset=8&hide_border=true" />
+</p>
+
 
 [![Atul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumaratul60&bg_color=1a2634&color=5AC8FA&point=5AC8FA&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
@@ -69,7 +72,6 @@
 ## 🐍 Contribution Snake
 ![GitHub Snake Light](https://github.com/kumaratul60/kumaratul60/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/kumaratul60/kumaratul60/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 
 ---
 
