@@ -96,8 +96,7 @@
 
 ---
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=1a2634&text_color=ff8000)
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
 
 ## 💰 Support My Work
