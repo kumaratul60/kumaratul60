@@ -57,8 +57,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="36%" src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" />
-  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&theme=highcontrast&hide_border=true" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" />
+  <img width="36%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&theme=highcontrast&hide_border=true" />
 </p>
 <p align="center">
   <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaratul60&layout=compact&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&hide_border=true" />
@@ -74,6 +74,14 @@
 ![GitHub Snake Light](https://github.com/kumaratul60/kumaratul60/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/kumaratul60/kumaratul60/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+
+<!--
+<div align="center">
+  <img src="https://github.com/kumaratul60/kumaratul60/blob/output/github-contribution-grid-snake.svg" />
+</div>
+-->
+
+
 ---
 
 ## ✍️ Latest Blog Posts
@@ -88,8 +96,7 @@
 
 ---
 
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=1a2634&text_color=ff8000)
 
 ---
 
