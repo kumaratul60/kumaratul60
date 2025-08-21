@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me
-<a href="https://app.daily.dev/atuldev01"><img align="right" src="https://api.daily.dev/devcards/v2/SnC6qUoCM.png?type=default&r=ks3" width="230" alt="Atul Awasthi's Dev Card"/></a>
+<a href="https://app.daily.dev/atuldev01"><img align="right" src="https://api.daily.dev/devcards/v2/SnC6qUoCM.png?type=default&r=ks3" width="228" alt="Atul Awasthi's Dev Card"/></a>
 
 - 💻 Self-taught developer with a passion for technology.
 - 🌱 Open-source contributor, lifelong learner.
