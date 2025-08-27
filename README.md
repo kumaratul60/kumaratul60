@@ -9,7 +9,7 @@
 ## 🌟 About Me
 <a href="https://app.daily.dev/atuldev01"><img align="right" src="https://api.daily.dev/devcards/v2/SnC6qUoCM.png?type=default&r=ks3" width="220" alt="Atul Awasthi's Dev Card"/></a>
 
-- 💻 Self-taught developer with a passion for technology.
+- 💻 Self-Taught Polyglot Programmer with a passion for technology.
 - 🌱 Open-source contributor, lifelong learner.
 - 📍 Based in India.
 - 🕸️ Love building responsive web applications.
