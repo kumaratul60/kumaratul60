@@ -56,14 +56,19 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img width="38%" src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" />
   <img width="36%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&theme=highcontrast&hide_border=true" />
-</p>
+</p> -->
 <p align="center">
-  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaratul60&layout=compact&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&hide_border=true" />
+  <!-- <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaratul60&layout=compact&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&hide_border=true" /> -->
   <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kumaratul60&theme=highcontrast&utcOffset=8&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumaratul60&theme=highcontrast" />
+</p>
+
 
 
 [![Atul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumaratul60&bg_color=1a2634&color=5AC8FA&point=5AC8FA&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
