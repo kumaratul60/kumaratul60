@@ -56,41 +56,44 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumaratul60&theme=highcontrast"
+    width="70%"
+  />
+</p>
+
+<p align="center">
+  <a href="https://outcode.lol/u/kumaratul60">
+    <img
+      src="https://outcode.lol/snippet/kumaratul60.svg?period=year&layout=wide"
+      alt="Outcode rank and score"
+    />
+  </a>
+</p>
+
 <!-- <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=kumaratul60&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" />
-  <img width="36%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaratul60&theme=highcontrast&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kumaratul60&bg_color=1a2634&color=5AC8FA&point=5AC8FA&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="95%"
+  />
 </p> -->
-<p align="center">
-  <!-- <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaratul60&layout=compact&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&hide_border=true" /> -->
-  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kumaratul60&theme=highcontrast&utcOffset=8&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumaratul60&theme=highcontrast" />
-</p>
-
-<p align="center">
-[![Outcode rank and score](https://outcode.lol/snippet/kumaratul60.svg?period=year&layout=wide)](https://outcode.lol/u/kumaratul60)
-</p>
-
-
-[![Atul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumaratul60&bg_color=1a2634&color=5AC8FA&point=5AC8FA&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🐍 Contribution Snake
-![GitHub Snake Light](https://github.com/kumaratul60/kumaratul60/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/kumaratul60/kumaratul60/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-
-<!--
-<div align="center">
-  <img src="https://github.com/kumaratul60/kumaratul60/blob/output/github-contribution-grid-snake.svg" />
-</div>
--->
-
-
----
+<p align="center">
+  <img
+    src="https://github.com/kumaratul60/kumaratul60/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"
+    alt="GitHub contribution snake"
+  />
+  <img
+    src="https://github.com/kumaratul60/kumaratul60/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+    alt="GitHub contribution snake"
+  />
+</p>
 
 ## ✍️ Latest Blog Posts
 
