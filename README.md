@@ -69,6 +69,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumaratul60&theme=highcontrast" />
 </p>
 
+<p align="center">
+[![Outcode rank and score](https://outcode.lol/snippet/kumaratul60.svg?period=year&layout=wide)](https://outcode.lol/u/kumaratul60)
+</p>
 
 
 [![Atul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumaratul60&bg_color=1a2634&color=5AC8FA&point=5AC8FA&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
