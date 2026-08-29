@@ -63,14 +63,14 @@
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://outcode.lol/u/kumaratul60">
     <img
       src="https://outcode.lol/snippet/kumaratul60.svg?period=year&layout=wide"
       alt="Outcode rank and score"
     />
   </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img
