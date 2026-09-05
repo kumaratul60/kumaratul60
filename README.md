@@ -2,35 +2,28 @@
 ![Atul Kumar Awasthi Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff8000,100:00c6ff&height=200&section=header&text=Atul%20Kumar%20Awasthi%20👨‍💻&fontSize=40&fontColor=fff&animation=fadeIn)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF8000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN;Open+Source+Contributor;Tech+Blogger;Lifelong+Learner+🌱)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF8000&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Frontend+Architect;Open+Source+Contributor;Lifelong+Learner+🌱)](https://git.io/typing-svg)
 
 ---
 
-## 🌟 About Me
-<a href="https://app.daily.dev/atuldev01"><img align="right" src="https://api.daily.dev/devcards/v2/SnC6qUoCM.png?type=default&r=ks3" width="220" alt="Atul Awasthi's Dev Card"/></a>
+## 👋 About Me
 
-- 💻 Self-Taught Polyglot Programmer with a passion for technology.
-- 🌱 Open-source contributor, lifelong learner.
-- 📍 Based in India.
-- 🕸️ Love building responsive web applications.
-- 🤝 Always eager to collaborate on innovative projects.
-- ✍️ Write blogs on [Medium](https://medium.com/@atulkawasthi).
-- ⚡ Fun Fact: I enjoy CrossFit and exploring new tech!
-- ✅ Ask me anything [here](https://github.com/kumaratul60/kumaratul60/issues/new), or [email me](mailto:atulreso1@gmail.com).
+<a href="https://app.daily.dev/atuldev01">
+  <img align="right" src="https://api.daily.dev/devcards/v2/SnC6qUoCM.png?type=default&r=ks3" width="220" alt="Atul Awasthi's Dev Card"/>
+</a>
 
-> "Code is easy and available everywhere, but knowing what code to write, where to write it, and how to write it, makes a developer the best developer."
+I’m a **Senior Software Engineer and full-stack developer** who enjoys turning complex engineering problems into **simple, scalable, and maintainable systems**.
 
----
+* 🏗️ Focused on **frontend architecture, React/Next.js, Node.js, APIs, performance, and system design**.
+* 💡 Enjoy building products, developer tools, and solutions that balance **simplicity, performance, and maintainability**.
+* 🌎 Based in India and open to collaborating on interesting engineering problems.
+* ✍️ I write about **JavaScript, React, frontend performance, and system design** on [Medium](https://medium.com/@atulkawasthi).
+* 📧 I’m a bit obsessive about communication — I read my emails daily.
+* 🏋️ Outside of code, I enjoy **CrossFit** and exploring new technology.
+* 💬 [Ask me anything](https://github.com/kumaratul60/kumaratul60/issues/new) · [Portfolio](http://atulawasthi.in) · [Email](mailto:atulreso1@gmail.com)
 
-## 🔗 Connect with Me
-[![X Badge](https://img.shields.io/badge/X.com-%231DA1F2.svg?&style=flat&logo=x&logoColor=white)](https://x.com/atulkawasthi)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-4.5K+-blue.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-awasthi)
-[![Medium Badge](https://img.shields.io/badge/medium-black.svg?&style=plastic&logo=medium&logoColor=white)](https://medium.com/@atulkawasthi)
-[![HackerRank Badge](https://img.shields.io/badge/hackerrank-brightgreen.svg?&style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/atulreso1)
-[![LeetCode Badge](https://img.shields.io/badge/leetcode-yellow.svg?&style=square&logo=leetcode&logoColor=white)](https://leetcode.com/atulreso1)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/geeksforgeeks-brightgreen.svg?&style=plastic&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/atul0063)
-![GitHub Followers](https://img.shields.io/github/followers/kumaratul60?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/kumaratul60?label=Stars&style=social)
+> *“Code is easy to find everywhere. Knowing what to build, where to build it, and how to build it well is what makes a great engineer.”*
+
 
 ---
 
@@ -46,7 +39,7 @@
 ![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark)
 
 ### ⚙️ Version Control & Cloud
-![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,aws,vercel,netlify&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,aws,vercel,netlify,grephite&theme=dark)
 
 <!--
 ## 📌 Featured Project
@@ -56,29 +49,20 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumaratul60&theme=highcontrast"
     width="70%"
   />
+</p> -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumaratul60&theme=github_dark"
+    width="80%"
+    alt="GitHub profile summary"
+  />
 </p>
 
-<!-- <p align="center">
-  <a href="https://outcode.lol/u/kumaratul60">
-    <img
-      src="https://outcode.lol/snippet/kumaratul60.svg?period=year&layout=wide"
-      alt="Outcode rank and score"
-    />
-  </a>
-</p> -->
-
-<!-- <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kumaratul60&bg_color=1a2634&color=5AC8FA&point=5AC8FA&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-    width="95%"
-  />
-</p> -->
 
 ---
 
@@ -107,16 +91,25 @@
 
 ---
 
-## 💰 Support My Work
-<a href='https://www.buymeacoffee.com/atulkawasthi' target='_blank'>
+## 🔗 Connect with Me
+[![X Badge](https://img.shields.io/badge/X.com-%231DA1F2.svg?&style=flat&logo=x&logoColor=white)](https://x.com/atulkawasthi)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-4.5K+-blue.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-awasthi)
+[![Medium Badge](https://img.shields.io/badge/medium-black.svg?&style=plastic&logo=medium&logoColor=white)](https://medium.com/@atulkawasthi)
+[![HackerRank Badge](https://img.shields.io/badge/hackerrank-brightgreen.svg?&style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/atulreso1)
+[![LeetCode Badge](https://img.shields.io/badge/leetcode-yellow.svg?&style=square&logo=leetcode&logoColor=white)](https://leetcode.com/atulreso1)
+[![GeeksforGeeks Badge](https://img.shields.io/badge/geeksforgeeks-brightgreen.svg?&style=plastic&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/atul0063)
+![GitHub Followers](https://img.shields.io/github/followers/kumaratul60?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/kumaratul60?label=Stars&style=social)
+
+<!-- <a href='https://www.buymeacoffee.com/atulkawasthi' target='_blank'>
   <img height='36' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='Support Atul on buymeacoffee' />
-</a>
+</a> -->
 
 ---
 
 ## 📫 Get in Touch
 - 📧 [atulreso1@gmail.com](mailto:atulreso1@gmail.com)  
-- 🌐 [Portfolio](https://atultheportfolio.netlify.app)
+- 🌐 [Portfolio](http://atulawasthi.in)
 
 ---
 
