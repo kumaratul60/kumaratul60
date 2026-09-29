@@ -12,7 +12,7 @@
   <img align="right" src="https://api.daily.dev/devcards/v2/SnC6qUoCM.png?type=default&r=ks3" width="220" alt="Atul Awasthi's Dev Card"/>
 </a>
 
-I’m a **Senior Software Engineer and full-stack developer** who enjoys turning complex engineering problems into **simple, scalable, and maintainable systems**.
+I’m a **passionate web developer and TypeScript enthusiast**, specializing in **full-stack development** and turning complex engineering problems into **simple, scalable, and maintainable systems**.
 
 * 🏗️ Focused on **frontend architecture, React/Next.js, Node.js, APIs, performance, and system design**.
 * 💡 Enjoy building products, developer tools, and solutions that balance **simplicity, performance, and maintainability**.
